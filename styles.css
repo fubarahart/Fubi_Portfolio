@@ -1,0 +1,26 @@
+body {
+    background-color: #cccff8;
+    text-align: center;
+    margin: 20px;
+}
+nav {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+}
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 2px solid #000000;
+    padding: 10px;
+    border-color: #0edf54;
+}
+img {
+    border: 2px solid #10d65c;
+    padding: 5px;
+}
